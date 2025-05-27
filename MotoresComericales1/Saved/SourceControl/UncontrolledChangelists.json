@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Motores-Comerciales-1-2025/MotoresComericales1/Content/ThirdPerson/Input/Actions/IA-SPRINT.uasset",
+				"C:/Motores-Comerciales-1-2025/MotoresComericales1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Motores-Comerciales-1-2025/MotoresComericales1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Motores-Comerciales-1-2025/MotoresComericales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YT/MRI10LP652GBOJ6LDKBBQB.uasset",
+				"C:/Motores-Comerciales-1-2025/MotoresComericales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/97/V4P8O4DMOOUWYI1UMH3NNZ.uasset",
+				"C:/Motores-Comerciales-1-2025/MotoresComericales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O0/XSMUBJLZLW8PFMMWRK0TIW.uasset",
+				"C:/Motores-Comerciales-1-2025/MotoresComericales1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/73/56VX19LS8MEI8BSH8ZEYH4.uasset",
+				"C:/Motores-Comerciales-1-2025/MotoresComericales1/Content/ThirdPerson/Blueprints/Bp_DUMMYNPC.uasset",
+				"C:/Motores-Comerciales-1-2025/MotoresComericales1/Content/Blueprints/Bp_spawner.uasset"
+			]
+		}
+	]
+}
